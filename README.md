@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Front End Web Development.
+- 🔭 I’m currently working on improving my CSS skills. It is still a little bit rusty.
+- 🌱 I’m learning to design and develop Front End Web Applications.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about my journey so far.
 - 📫 How to reach me: enitanatakere@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy sleeping... a lot!
