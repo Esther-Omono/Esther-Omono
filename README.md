@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my CSS skills. It is still a little bit rusty.
+- 🔭 I’m currently working on improving my Javascript skills. I have a whole lot to catch up on.
 - 🌱 I’m learning to design and develop Front End Web Applications.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
