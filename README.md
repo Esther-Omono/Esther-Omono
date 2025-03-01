@@ -1,15 +1,11 @@
 ### Hi there 👋
 
+## I am Esther - a Front End Engineer. *smiles*
 
-**Esther-Omono/Esther-Omono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving my Javascript skills.
-- 🌱 I’m learning to design and develop Front End Web Applications.
-- 👯 I’m looking to collaborate on real-life projects using vanilla Javascript.
-- 🤔 I’m looking for help with tips on how to improve myself.
-- 💬 Ask me about my journey so far.
+- 🔭 I’m currently working on improving my ReactJS skills.
+- 🌱 I have also just started to use TailwindCSS (it's so fun).
+- 👯 I’m looking to collaborate on real-life projects.
+- 🤔 I’m looking for help with tips on improving myself, especially since self-learning is not so easy.
 - 📫 How to reach me: enitanatakere@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy sleeping... a lot!
