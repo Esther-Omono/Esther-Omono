@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther-omono&label=Profile%20views&color=0e75b6&style=flat" alt="esther-omono" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esther-omono" alt="esther-omono" /></a> </p>
-
 - 🌱 I’m currently learning **NextJs, NodeJs**
 
 - 👯 I’m looking to collaborate on **more real life projects**
