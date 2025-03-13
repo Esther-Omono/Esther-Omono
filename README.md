@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs, NodeJs**
 
-- 👯 I’m looking to collaborate on **more real life projects**
+- 👯 I’m looking to collaborate on **more real-life projects**
 
 - 💬 Ask me about **React, TailwindCSS**
 
@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esther-omono&show_icons=true&locale=en&layout=compact" alt="esther-omono" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esther-omono&" alt="esther-omono" /></p>
+
