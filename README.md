@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esther aka Wesley Black</h1>
-<h3 align="center">A Frontend engineer from Nigeria. *smiles*</h3>
+<h1 align="center">Hi 👋, I'm Esther</h1>
+<h3 align="center">A Frontend Engineer from Nigeria. *smiles*</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther-omono&label=Profile%20views&color=0e75b6&style=flat" alt="esther-omono" /> </p>
 
