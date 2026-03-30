@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esther-omono&label=Profile%20views&color=0e75b6&style=flat" alt="esther-omono" /> </p>
 
-- 🌱 I’m currently learning and building with **TypeScript**
+- 🌱 I’m proficient in React and TailwindCSS and currently learning and building with **TypeScript**
 
 - 👯 I’m looking to collaborate on **more real-life projects**
 
-- 💬 Ask me about **React, TailwindCSS, GitHub**
+- ⚡ Fun fact **I enjoy reading... a lot**
 
 - 📫 How to reach me **enitanatakere@gmail.com**
 
-- ⚡ Fun fact **I enjoy reading**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
